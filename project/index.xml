@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on stuart.sale</title>
+    <link>https://stuartsale.github.io/project/</link>
+    <description>Recent content in Projects on stuart.sale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2017 Stuart Sale</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A 3D extinction map of the Northern Galactic Plane</title>
+      <link>https://stuartsale.github.io/project/3dmap/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stuartsale.github.io/project/3dmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 3D structure of Molecular Clouds</title>
+      <link>https://stuartsale.github.io/project/molecular-clouds/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stuartsale.github.io/project/molecular-clouds/</guid>
+      <description>&lt;p&gt;I am currently working on estimating the PDFs of the 3D density i molecular clouds. Watch this space&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

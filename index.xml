@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stuart.sale on stuart.sale</title>
+    <link>https://stuartsale.github.io/</link>
+    <description>Recent content in stuart.sale on stuart.sale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2017 Stuart Sale</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A 3D extinction map of the Northern Galactic Plane</title>
+      <link>https://stuartsale.github.io/project/3dmap/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stuartsale.github.io/project/3dmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 3D structure of Molecular Clouds</title>
+      <link>https://stuartsale.github.io/project/molecular-clouds/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stuartsale.github.io/project/molecular-clouds/</guid>
+      <description>&lt;p&gt;I am currently working on estimating the PDFs of the 3D density i molecular clouds. Watch this space&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional extinction mapping and selection effects</title>
+      <link>https://stuartsale.github.io/publication/s15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://stuartsale.github.io/publication/s15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marginal likelihoods of distances and extinctions to stars: computation and compact representation</title>
+      <link>https://stuartsale.github.io/publication/sm15/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://stuartsale.github.io/publication/sm15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional extinction mapping using Gaussian random fields</title>
+      <link>https://stuartsale.github.io/publication/sm14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://stuartsale.github.io/publication/sm14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 3D extinction map of the northern Galactic plane based on IPHAS photometry</title>
+      <link>https://stuartsale.github.io/publication/s&#43;14/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://stuartsale.github.io/publication/s&#43;14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
